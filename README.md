@@ -3,6 +3,7 @@
 - 👋 olá, meu nome é @jucabelud0
 - 👀 eu estou interessado em aprender programar
 - 🌱 eu estou aprendendo a programar JavaScript e Scratch
+- 
 
 
 <!---
